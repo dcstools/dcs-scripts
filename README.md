@@ -1,4 +1,4 @@
 dcs-scripts
 ===========
 
-Repository of uitlis lua scripts to enhance dynamic mission design
+Repository of utils lua scripts to enhance dynamic mission design
